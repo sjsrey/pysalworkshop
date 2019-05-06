@@ -45,7 +45,7 @@ If you are familiar with GitHub, you should clone or fork this GitHub repository
 git clone -branch geocomp19 https://github.com/sjsrey/pysalworkshop.git
 ```
 
-If you are not using git, you can grab the workshop materials as a zip file by pointing your browser to (https://github.com/sjsrey/geocomputation19.git) and clicking on the green *Clone or download* button in the upper right.
+If you are not using git, you can grab the workshop materials as a zip file by pointing your browser to (https://github.com/sjsrey/pysalworkshop.git) and clicking on the green *Clone or download* button in the upper right.
 
 ![download](figs/readmefigs/download.png)
 
