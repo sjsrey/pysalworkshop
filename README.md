@@ -40,5 +40,4 @@ Wednesday, Nov 13, 2019
 * 15:15-17:00
   * Spatial inequality dynamics
   * Regionalization and clustering
-  * Basic spatial regression
   
